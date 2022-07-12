@@ -1,12 +1,7 @@
 public class FirstCode {
     public static void main(String[] args) {
         int[] p = { 30, 35, 15, 5, 10, 20, 25 };
-        System.out.println("Haloo dafff");
         matrixChainOrder(p);
-    }
-
-    static void hallo(){
-        
     }
 
     static void matrixChainOrder(int[] arr) {
@@ -44,6 +39,5 @@ public class FirstCode {
             }
             System.out.println();
         }
-        System.out.println("Hello World");
     }
 }
