@@ -5,6 +5,10 @@ public class FirstCode {
         matrixChainOrder(p);
     }
 
+    static void hallo(){
+        
+    }
+
     static void matrixChainOrder(int[] arr) {
         int n = arr.length - 1;
         int[][] m = new int[arr.length + 1][arr.length + 1];
